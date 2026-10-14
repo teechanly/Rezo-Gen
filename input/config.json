@@ -1,0 +1,11 @@
+{
+    "data": {
+        "solver_api_key": ""
+    },
+    "mail": {
+        "api_key": ""
+    },
+    "verification": {
+        "enabled": true
+    }
+}
